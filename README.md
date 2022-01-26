@@ -1,3 +1,3 @@
 # game.githud.io
 Demo page
-This game is created just for fun.
+https://github.com/goooos333/game.githud.io/blob/main/index.html

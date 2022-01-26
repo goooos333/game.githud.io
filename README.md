@@ -1,3 +1,3 @@
 # game.githud.io
 Demo page
-https:game.githud.io
+https://game.githud.io
